@@ -1,14 +1,14 @@
-Dreuw & Deselaer’s Poster
+Jacobs Landscape Poster
 
 Original description:
-This poster template features a dark gray color scheme for content and a contrasting title and footer to highlight important information about the research. Content is laid out in two columns in a portrait orientation but changing it to landscape and increasing the number of columns is quite easy. The template makes extensive use of lists for styling which promotes a clear and concise description of research. Examples of a table, figure, equation, list and bibliography are present in the template to provide a starting point for any requirement you may have for your own poster.
+This poster template features a clean sectioned look suitable for presenting research at a conference. Important information is highlighted with colored boxes and each section within the poster is clearly separated from the others. The layout of the template contains four columns but this can be changed to accommodate varying amounts of information or figures. Examples of a table, figure, equation, list and bibliography are present in the template to provide a starting point for any requirement you may have for your own poster.
 
 ===================================================
 
-Original sources: https://www.latextemplates.com/template/dreuw-deselaers-poster
-Author:           Philippe Dreuw and Thomas Deselaers
+Original sources: https://www.latextemplates.com/template/jacobs-landscape-poster
+Author:           Computational Physics and Biophysics Group, Jacobs University; modified by: Nathaniel Johnston (nathaniel@njohnston.ca) 
 License:          CC BY-NC-SA 3.0
-Version:	  1.0 (11/04/2013)
+Version:	        1.1 (14/05/2014)
 
 Status:           added by Papeeria Team, maintenance on demand
 Last update:      20 Jan 2018 
