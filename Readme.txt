@@ -8,7 +8,7 @@ This poster template features a clean sectioned look suitable for presenting res
 Original sources: https://www.latextemplates.com/template/jacobs-landscape-poster
 Author:           Computational Physics and Biophysics Group, Jacobs University; modified by: Nathaniel Johnston (nathaniel@njohnston.ca) 
 License:          CC BY-NC-SA 3.0
-Version:	        1.1 (14/05/2014)
+Version:	     1.1 (14/05/2014)
 
 Status:           added by Papeeria Team, maintenance on demand
 Last update:      20 Jan 2018 
